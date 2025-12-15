@@ -23,4 +23,4 @@ The program considers scores from the following subjects:
 3. Run the script and follow the prompts to enter scores and gender.
 4. The program will display the total score and the corresponding comment.
 
-python result_calculator.py
+Ethiopian Entrance Exam result calculator.py
